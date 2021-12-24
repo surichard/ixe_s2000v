@@ -7,7 +7,7 @@ Firmware_Diy_Core() {
 	Author=AUTO
 	Author_URL=AUTO
 	Default_IP="192.168.1.1"
-	Banner_Message="Powered by AutoBuild-Actions"
+	Banner_Message="Richard Su 2021.12"
 
 	Short_Firmware_Date=true
 	Checkout_Virtual_Images=false
